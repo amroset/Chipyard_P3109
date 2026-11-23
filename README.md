@@ -1,3 +1,6 @@
+> **This fork** builds Saturn with IEEE P3109 arithmetic and block scaling (branch `dotprod`).
+> To run its tests and experiments, see [generators/saturn/REPRODUCE.md](https://github.com/amroset/Saturn_P3109/blob/dotprod/REPRODUCE.md).
+
 ![CHIPYARD](https://github.com/ucb-bar/chipyard/raw/main/docs/_static/images/chipyard-logo-full.png)
 
 # Chipyard Framework [![Test](https://github.com/ucb-bar/chipyard/actions/workflows/chipyard-run-tests.yml/badge.svg)](https://github.com/ucb-bar/chipyard/actions)
